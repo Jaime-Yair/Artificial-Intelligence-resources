@@ -1,1 +1,1 @@
-# Artificial Intelligence resources
+# Artificial Intelligence Resources
