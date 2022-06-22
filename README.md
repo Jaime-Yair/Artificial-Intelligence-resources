@@ -7,13 +7,12 @@ Keeping update and appending new things...
 
 ### Machine Learning
 <ul>
-<li><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLMkts8AAAAJ&citation_for_view=SLMkts8AAAAJ:X9ykpCP0fEIC" title="Title"> The Matrix Calculus You Need for Deep Learning</a></li>
+<li><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLMkts8AAAAJ&citation_for_view=SLMkts8AAAAJ:X9ykpCP0fEIC" title="Title"> A practical guide to support vector classification</a></li>
 </ul>
 
 ### Deep Learning
 <ul>
 <li><a href="https://arxiv.org/abs/1802.01528" title="Title"> The Matrix Calculus You Need for Deep Learning</a></li>
-<li><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLMkts8AAAAJ&citation_for_view=SLMkts8AAAAJ:X9ykpCP0fEIC" title="Title"> The Matrix Calculus You Need for Deep Learning</a></li>
 </ul>
 
 
