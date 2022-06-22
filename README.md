@@ -19,6 +19,6 @@ Keeping update and appending new things...
 
 <ul>
 <li>Bird</li>
-<li>This is [an example](http://example.com/ "Title") inline link.
-[This link](http://example.net/) has no title attribute.</li>
+<li>This is <a href="http://example.com/" title="Title">
+an example</a> inline link.</li>
 </ul>
