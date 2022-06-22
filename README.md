@@ -24,4 +24,3 @@ Keeping update and appending new things...
 <li><a href="https://web.stanford.edu/~boyd/vmls/" title="Title"> Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares.
 </a></li>
 </ul>
-https://web.stanford.edu/~boyd/vmls/
