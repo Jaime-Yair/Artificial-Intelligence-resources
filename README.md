@@ -16,3 +16,8 @@ Keeping update and appending new things...
 
 
 ### Foundations of machine learning
+
+<ul>
+<li>Bird</li>
+<li>Magic</li>
+</ul>
