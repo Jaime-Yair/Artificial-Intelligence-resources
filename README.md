@@ -19,5 +19,5 @@ Keeping update and appending new things...
 
 <ul>
 <li>Bird</li>
-<li><a href="https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/" title="Mathematical Foundations of Machine Learning"> </a>.</li>
+<li><a href="https://www.youtube.com/" title="Mathematical Foundations of Machine Learning"> </a>.</li>
 </ul>
