@@ -15,7 +15,10 @@ Keeping update and appending new things...
 <li><a href="https://arxiv.org/abs/1802.01528" title="Title"> The Matrix Calculus You Need for Deep Learning</a></li>
 </ul>
 
-
+### Machine Learning
+<ul>
+<li><a href="https://www.edx.org/es/course/the-analytics-edge" title="Title">The Analytics Edge</a></li>
+</ul>
 
 ### Natural Language Processing
 
