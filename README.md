@@ -19,5 +19,5 @@ Keeping update and appending new things...
 
 <ul>
 <li>Bird</li>
-<li>This is <a href="http://example.com/" title="Title"> an example</a> inline link.</li>
+<li>This is <a href="http://example.com/" title="Title">Mathematical Foundations of Machine Learning</a> inline link.</li>
 </ul>
