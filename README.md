@@ -19,5 +19,5 @@ Keeping update and appending new things...
 
 <ul>
 <li>Bird</li>
-<li><a href="https://www.youtube.com/" title="Mathematical Foundations of Machine Learning"> </a>.</li>
+<li><<p>This is <a href="http://example.com/" title="Title"> an example</a> inline link.</p></li>
 </ul>
